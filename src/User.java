@@ -1,8 +1,8 @@
 public class User {
-    private int id;
-    private String firstName;
-    private String lastName;
-    private double balance;
+    int id;
+    String firstName;
+    String lastName;
+    double balance;
 
     public User(int id, String firstName, String lastName, double balance) {
         this.id = id;
